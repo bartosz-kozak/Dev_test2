@@ -1,0 +1,5 @@
+{
+  "name": "my-hugo",
+  // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
+  "image": "klakegg/hugo:ext-debian-ci"
+}
